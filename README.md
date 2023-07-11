@@ -34,3 +34,6 @@
   
 #### 4. 이메일, 메세지 공유
 - 날씨 정보를 이메일과 메세지로 공유 가능
+
+## ✔️📍📸 앱 시연 영상
+<a href = "https://drive.google.com/file/d/15omEHbSg-wutco8GdQizTJKo82bSw0Ff/view?usp=share_link">
