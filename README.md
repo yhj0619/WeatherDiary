@@ -10,12 +10,8 @@
   <br>
 
 ### ⚙️ 개발 환경
-- `Java 8`
-- `JDK 1.8.0`
-- **IDE** : STS 3.9
-- **Framework** : Springboot(2.x)
-- **Database** : Oracle DB(11xe)
-- **ORM** : Mybatis
+- 'Java'
+- AndroidStudio
 
 ## 📌 주요 기능
 #### 1. 날씨 정보 제공 & 옷차림 추천
