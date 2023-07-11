@@ -36,4 +36,4 @@
 - 날씨 정보를 이메일과 메세지로 공유 가능
 
 ## 📸 앱 시연 영상
-[구글 드라이브](https://drive.google.com/file/d/15omEHbSg-wutco8GdQizTJKo82bSw0Ff/view?usp=share_link")
+- [구글 드라이브](https://drive.google.com/file/d/15omEHbSg-wutco8GdQizTJKo82bSw0Ff/view?usp=share_link")
