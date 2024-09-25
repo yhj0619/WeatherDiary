@@ -1,4 +1,4 @@
-# WeatherDiary
+# 🌈 WeatherDiary
 3-2 모바일응용 최종 프로젝트
 
 ## 🖥️ 프로젝트 소개
